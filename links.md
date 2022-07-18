@@ -29,6 +29,10 @@ The best open-source spaced-repetition software.
 
 Piotr Wozniak's blog on spaced-repetition, learning, and education.
 
+### [Vinca CLI](https://github.com/oscarlaird/vinca_CLI)
+
+Vinca on the command line. Full-featured and fast.
+
 -------------------------------------------------------------------------------------------
 
 !["Allegory of Grammar"](./assets/laurent-de-la-hyre-allegory-of-grammar.jpg "Allegory of Grammar by Laurent de la Hyre, National Gallery, London.")
