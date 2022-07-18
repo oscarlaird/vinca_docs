@@ -31,7 +31,7 @@ Piotr Wozniak's blog on spaced-repetition, learning, and education.
 
 ### [Vinca CLI](https://github.com/oscarlaird/vinca_CLI)
 
-Vinca on the command line. Full-featured and fast.
+Vinca on the command line.
 
 -------------------------------------------------------------------------------------------
 
