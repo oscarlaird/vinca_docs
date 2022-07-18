@@ -3,9 +3,9 @@
 Advice on creating flashcards.
 Of special note:
 
-1. "Do not learn if you do not understand" (context, language, prerequisites...)
-2. "Learn before you memorize" This bears repeating: *flashcards are not a learning tool*
-4. "The Minimum Information Principle" (Michael Nielson calls these "atomic questions" because they are semantically irreducible.)
+- "Do not learn if you do not understand" (context, language, prerequisites...)
+- "Learn before you memorize" *flashcards are not a learning tool*
+- "The Minimum Information Principle" (Michael Nielson calls these "atomic questions" because they are semantically irreducible.)
 
 ### ["Augmenting Long-Term Memory" by Michael Nielson](http://augmentingcognition.com/ltm.html)
 
